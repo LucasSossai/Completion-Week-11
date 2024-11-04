@@ -47,7 +47,10 @@ public class Player : MonoBehaviour
             transform.position = new Vector3(transform.position.x, -4, 0);
         }
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
     }
 
     void Shooting()
